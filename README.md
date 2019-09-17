@@ -27,7 +27,7 @@ By checking the each element (1s or 0s) in classes array, images belongs to two 
   Results on positive: There are 171 results classified as positive class. 
                        But out of 171 of them 69 are negative images (not include the goalpost). Therefore the accuracy is around 60%.
  
-FITing the model
+FITing the model (load_test05)
 
 I took couple of sample videos and fit the model to them.
 According to the errors there will be negative images in the positive images,
