@@ -38,3 +38,8 @@ for the model training and then trained the model again with increased training 
 Then the previously tested video is tested again using the new model. The accuracy of the resulted images was increased.
 Results on positive: increased up to 85% after couple of iterations
 
+Open Source Licence
+
+Feel free to use this codes and let me know your comments.
+
+[Author] Tharindu Ekanayake _ tharindu326@gmail.com
