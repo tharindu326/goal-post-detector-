@@ -9,10 +9,10 @@ Number of fames divided into – 130/2= 65
 
 then prepared and arange the image directories with captured thresholded(binary) images and use them to train a CNN model
 image directory:
-   -train
+   1.train
       -negetive 
       -positive
-   -validation 
+   2.validation 
       -negetive 
       -positive
       
