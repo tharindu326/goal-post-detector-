@@ -1,0 +1,4 @@
+here i have used the trained model to detect the frames of goalpost and then save them to to defrent folders of possitive and negetive.
+for erroe handling,,
+i hve removed the frames by considering the collectiveness and consecutiveness 
+and then ploted time stams of positive images vs their frame number and the same plot after error handling 
